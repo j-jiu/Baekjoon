@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JJW.iml" filepath="$PROJECT_DIR$/JJW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10972_permutation/_10972_permutation.iml" filepath="$PROJECT_DIR$/_10972_permutation/_10972_permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14940/_14940.iml" filepath="$PROJECT_DIR$/_14940/_14940.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16940_BFSspecial/_16940_BFSspecial.iml" filepath="$PROJECT_DIR$/_16940_BFSspecial/_16940_BFSspecial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2178/_2178.iml" filepath="$PROJECT_DIR$/_2178/_2178.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_24479/_24479.iml" filepath="$PROJECT_DIR$/_24479/_24479.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2644/_2644.iml" filepath="$PROJECT_DIR$/_2644/_2644.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2747_fibo/_2747_fibo.iml" filepath="$PROJECT_DIR$/_2747_fibo/_2747_fibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4991_RobotCleaner/_4991_RobotCleaner.iml" filepath="$PROJECT_DIR$/_4991_RobotCleaner/_4991_RobotCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6087_laser/_6087_laser.iml" filepath="$PROJECT_DIR$/_6087_laser/_6087_laser.iml" />
+    </modules>
+  </component>
+</project>
